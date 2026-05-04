@@ -1,2 +1,25 @@
-# Cybersecurity-Portfolio
-SOC Analyst training portfolio documenting my journey from cybersecurity student to job-ready analyst. Includes TryHackMe labs, Python security scripts, SIEM projects, threat analysis, and incident response documentation. Building skills in Splunk, Security Onion, network forensics, and defensive security operations.
+# Cybersecurity Journey
+
+## About Me
+B.Sc. Cybersecurity student actively learning SOC Analyst skills through hands-on labs and real-world security scenarios.
+
+## Current Focus (May 2026)
+- TryHackMe SOC Level 1 Path
+- LetsDefend SOC investigations
+- Building SIEM skills (Splunk, Security Onion)
+
+## Skills in Progress
+- **SIEM Tools:** Splunk, Security Onion
+- **Network Analysis:** Wireshark, Zeek
+- **Scripting:** Python for security automation
+- **Platforms:** TryHackMe, LetsDefend, Blue Team Labs
+
+## Certifications
+- ISC2 Certified in Cybersecurity (In Progress)
+
+## Projects
+*Coming soon - incident response reports, Python scripts, and security labs*
+
+---
+
+**Last Updated:** May 2026
