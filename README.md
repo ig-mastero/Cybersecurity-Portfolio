@@ -5,7 +5,6 @@ B.Sc. Cybersecurity student actively learning SOC Analyst skills through hands-o
 
 ## Current Focus (May 2026)
 - TryHackMe SOC Level 1 Path
-- LetsDefend SOC investigations
 - Building SIEM skills (Splunk, Security Onion)
 
 ## Skills in Progress
