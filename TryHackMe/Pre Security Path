@@ -1,9 +1,18 @@
-# TryHackMe Lab Documentation
+### Week 1 (May 2- May 8 , 2026) 
 
-This folder contains writeups and notes from TryHackMe rooms. Starting From May 2nd 2026
+# Pre Security Path
+This path taught me how technology works from the ground up, even without any prior experience. From learning computer basics and writing my first lines of code to understanding networking, the web, and cyber attacks and defenses, this is where my cybersecurity journey began. \
+This was my first step into cybersecurity. I learned how technology works while also developing the mindset of both an attacker and a defender.
 
-## Completed Rooms
-### Week 1 (May 2- May 8 , 2026)
+- I explored how computers really work
+- I wrote my first lines of code
+- I learned the basics of networking and the web
+- I began thinking like both a hacker and a defender
+
+#### [CERTIFICATE EARNED: Here](https://tryhackme.com/certificate/THM-MLYUDJBJ4Z)
+
+##### Completed Labs:
+
 - [Defensive Security Intro ](https://tryhackme.com/room/defensivesecurityintroezn39?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
   Introducing defensive security, where you will protect FakeBank from an ongoing attack
@@ -56,6 +65,33 @@ This folder contains writeups and notes from TryHackMe rooms. Starting From May 
 - [Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
   Learn why virtualisation powers modern IT, improving efficiency and safely isolating environments.
-- [
+- [Operating System Security](https://tryhackme.com/room/operatingsystemsecurity?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
-*Updated as I progress through the SOC Level 1 path.*
+  This room introduces users to operating system security and demonstrates SSH authentication on Linux.
+- [Data Representation](https://tryhackme.com/room/datarepresentation?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learn about how computers represent numbers and colors.
+- [Data Encoding](https://tryhackme.com/room/dataencoding?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learn how computer encodes characters, from ASCII to Unicode's UTF.
+- [Python: Simple Demo](https://tryhackme.com/room/pythonsimpledemo?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Explore what a basic Python program looks like.
+- [JavaScript: Simple Demo](https://tryhackme.com/room/javascriptsimpledemo?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Explore what a basic JavaScript program looks like.
+- [Database SQL Basics](https://tryhackme.com/room/databasesqlbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learn the basics of databases and SQL by writing simple queries to retrieve and manage data.
+- [The CIA Triad](https://tryhackme.com/room/theciatriad?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+  
+  Understand the CIA Triad and how it shapes cyber security mindset.
+- [Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  This room provides an understanding of cryptography in our everyday digital encounters.
+- [Become a Hacker](https://tryhackme.com/room/becomeahacker?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Explore offensive security, the hacker mindset, and hack a web app to improve security!
+- [Become a Defender](https://tryhackme.com/room/becomeadefender?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Explore defensive security, cyber infrastructure, and how to protect systems from attacks.
