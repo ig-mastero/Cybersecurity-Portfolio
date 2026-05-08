@@ -37,5 +37,12 @@ This beginner-friendly path aims to give a solid introduction to the different a
   - General utilities such as downloading and serving contents using a python webserver
   - A look into processes
   - Maintaining & automating your system by the use of crontabs, package management, and reviewing logs
-- 
+- [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  In part 1 of the Windows Fundamentals module, we'll start our journey learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more..
+- [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  In part 2 of the Windows Fundamentals module, discover more about System Configuration, UAC Settings, Resource Monitoring, the Windows Registry and more..
+
+
   
