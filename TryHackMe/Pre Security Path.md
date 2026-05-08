@@ -9,7 +9,7 @@ This was my first step into cybersecurity. I learned how technology works while 
 - I learned the basics of networking and the web
 - I began thinking like both a hacker and a defender
 
-#### [CERTIFICATE EARNED: Here](https://tryhackme.com/certificate/THM-MLYUDJBJ4Z)
+#### [CERTIFICATE EARNED: 7th May 2026](https://tryhackme.com/certificate/THM-MLYUDJBJ4Z)
 
 ##### Completed Labs:
 
