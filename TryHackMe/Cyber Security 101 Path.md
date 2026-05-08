@@ -10,7 +10,7 @@ This beginner-friendly path aims to give a solid introduction to the different a
 - Defensive security solutions and tools
 - Cyber security careers
 
-####CERTIFICATE EARNED : Loading
+#### CERTIFICATE EARNED : Loading
 
 #### Completed Labs
 
