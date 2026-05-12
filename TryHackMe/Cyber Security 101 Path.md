@@ -44,5 +44,22 @@ This beginner-friendly path aims to give a solid introduction to the different a
 
   In part 2 of the Windows Fundamentals module, discover more about System Configuration, UAC Settings, Resource Monitoring, the Windows Registry and more..
 
+- [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  In part 3 of the Windows Fundamentals module, learn about the built-in Microsoft tools that help keep the device secure, such as Windows Updates, Windows Security, BitLocker, and more...
+- [Active Directory Basics](https://tryhackme.com/room/winadbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  In this room, we have shown the basic components and concepts related to Active Directories and Windows Domains. Keep in mind that this room should only serve as an introduction to the basic concepts, as there's quite a bit more to explore to implement a production-ready Active Directory environment. \
+  Things Learned:
+  - Windows Domains
+  - Active Directory
+  - Managing Users in AD
+  - Managing Computers in AD
+  - Group Policies
+  - Authentication Methods
+  - Trees, Forests and Trusts
+- 
+  
+
 
   
