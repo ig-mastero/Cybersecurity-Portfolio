@@ -58,8 +58,19 @@ This beginner-friendly path aims to give a solid introduction to the different a
   - Group Policies
   - Authentication Methods
   - Trees, Forests and Trusts
-- 
+- [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+  This particular room aims to understand the basics of the Burp Suite web application security testing framework. Our focus will revolve around the following key aspects:
+
+  - A thorough introduction to Burp Suite.
+  - A comprehensive overview of the various tools available within the framework.
+  - Detailed guidance on the process of installing Burp Suite on your system.
+  - Navigating and configuring Burp Suite. 
+-  
+
   
 
 
-  
+
+
+
+
