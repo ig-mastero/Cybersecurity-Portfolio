@@ -59,14 +59,34 @@ This beginner-friendly path aims to give a solid introduction to the different a
   - Authentication Methods
   - Trees, Forests and Trusts
 - [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
   This particular room aims to understand the basics of the Burp Suite web application security testing framework. Our focus will revolve around the following key aspects:
 
   - A thorough introduction to Burp Suite.
   - A comprehensive overview of the various tools available within the framework.
   - Detailed guidance on the process of installing Burp Suite on your system.
   - Navigating and configuring Burp Suite. 
--  
+- [Windows Command Line ](https://tryhackme.com/room/windowscommandline?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
+  Learn the essential Windows commands.
+- [Windows PowerShell](https://tryhackme.com/room/windowspowershell?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  This is the second room in the Command Line module. It is an introductory room to PowerShell, the second—only historically—command-line utility built for the Windows operating system.
+  - Learn what PowerShell is and its capabilities.
+  - Understand the basic structure of PowerShell’s language.
+  - Learn and run some basic PowerShell commands.
+  - Understand PowerShell’s many applications in the cyber security industry.
+- [Linux Shells](https://tryhackme.com/room/linuxshells?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learning Objectives
+  - Learn interaction with Linux shell
+  - Use basic shell commands
+  - Explore the types of Linux shells available
+  - Write some shell scripts
+- [Networking concepts](https://tryhackme.com/room/networkingconcepts?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  In this room, we covered the ISO OSI and TCP/IP models, comparing and contrasting the two. We also covered IP addresses and subnets, briefly explaining routing. Furthermore, after diving into TCP and UDP, we explained encapsulation. For demonstration purposes, we used telnet to “talk” to different servers over TCP.
+- 
   
 
 
