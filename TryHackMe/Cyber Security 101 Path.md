@@ -86,7 +86,27 @@ This beginner-friendly path aims to give a solid introduction to the different a
 - [Networking concepts](https://tryhackme.com/room/networkingconcepts?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
   In this room, we covered the ISO OSI and TCP/IP models, comparing and contrasting the two. We also covered IP addresses and subnets, briefly explaining routing. Furthermore, after diving into TCP and UDP, we explained encapsulation. For demonstration purposes, we used telnet to “talk” to different servers over TCP.
+- [Networking Essentials](https://tryhackme.com/room/networkingessentials?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Explore networking protocols from automatic configuration to routing packets to the destination.
+- [Networking Core Protocols](https://tryhackme.com/room/networkingcoreprotocols?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learn about the core TCP/IP protocols.
+- [Networking Secure Protocols](https://tryhackme.com/room/networkingsecureprotocols?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learn how TLS, SSH, and VPN can secure your network traffic.
+- [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learn the basics of Wireshark and how to analyse protocols and PCAPs.
+- [Tcpdump: The Basics](https://tryhackme.com/room/tcpdump?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learn how to use Tcpdump to save, filter, and display packets.
+- [Nmap: The Basics](https://tryhackme.com/room/nmap?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  In this room, we learned how to use Nmap to discover live hosts on any network. We also explored the common types of port scans and how we can use Nmap to find service version numbers. We also learned how to control the timing of the scan, and finally, we covered the different formats for saving Nmap scan results.
 - 
+
+
   
 
 
