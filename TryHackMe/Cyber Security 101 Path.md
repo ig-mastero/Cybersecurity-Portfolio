@@ -104,8 +104,14 @@ This beginner-friendly path aims to give a solid introduction to the different a
 - [Nmap: The Basics](https://tryhackme.com/room/nmap?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
   In this room, we learned how to use Nmap to discover live hosts on any network. We also explored the common types of port scans and how we can use Nmap to find service version numbers. We also learned how to control the timing of the scan, and finally, we covered the different formats for saving Nmap scan results.
-- 
+- [Cryptography Basics](https://tryhackme.com/room/cryptographybasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
+  In this room, we learned about the importance of cryptography and some of the problems that it solves. We also introduced symmetric and asymmetric encryption ciphers. Finally, we explained the XOR and the modulo operations
+- [Public Key Cryptography Basics](https://tryhackme.com/room/publickeycrypto?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+Feels Like moving up in the world. Felt what feels like frustration when I can't do a single task. Challenges faced. I did't know how to decrypt a simple messege using a given key in the same folder. 
+Digged the manuals and then found out using a AI tool that I have to import the key into GPG first using "--import" then decrypt the messege which will reveal what? "PINAPPLE". One of the labs that I enjoyed solving. ❤
+- 
 
   
 
