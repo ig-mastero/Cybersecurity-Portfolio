@@ -111,7 +111,12 @@ This beginner-friendly path aims to give a solid introduction to the different a
 
   Feels Like moving up in the world. Felt what feels like frustration when I can't do a single task. Challenges faced. I did't know how to decrypt a simple messege using a given key in the same folder. 
 Digged the manuals and then found out using a AI tool that I have to import the key into GPG first using "--import" then decrypt the messege which will reveal what? "PINAPPLE". One of the labs that I enjoyed solving. ❤
-- 
+- [Hashing Basics](https://tryhackme.com/room/hashingbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+   Learn about hashing functions and their uses in password verification and file integrity checking.\
+  Challenges Faced: How do I crack the hash, figuring out syntaxes and how to use every hashing algorithm do undo the hash using a wordlist. Was a challenge. 
+
+
 
   
 
