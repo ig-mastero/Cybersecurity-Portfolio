@@ -115,7 +115,10 @@ Digged the manuals and then found out using a AI tool that I have to import the 
 
    Learn about hashing functions and their uses in password verification and file integrity checking. Using HASHCAT\
   Challenges Faced: How do I crack the hash, figuring out syntaxes and how to use every hashing algorithm do undo the hash using a wordlist. Was a challenge. 
+- [John the Ripper: The Basics](https://tryhackme.com/room/johntheripperbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
+  Learn how to use John the Ripper, a powerful and adaptable hash-cracking tool.\
+  Challenges Faced : Typing John as Jhon is the real deal here. Finding the password file each time. Cracked ZIP , RAR , SSH Hashes with the default ROCKYOU.TXT Had fun
 
 
   
