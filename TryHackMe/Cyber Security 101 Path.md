@@ -119,7 +119,15 @@ Digged the manuals and then found out using a AI tool that I have to import the 
 
   Learn how to use John the Ripper, a powerful and adaptable hash-cracking tool.\
   Challenges Faced : Typing John as Jhon is the real deal here. Finding the password file each time. Cracked ZIP , RAR , SSH Hashes with the default ROCKYOU.TXT Had fun
+- [Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
+  Learned about Outlier's vulnerability. On February 13th, 2024, Microsoft announced a Microsoft Outlook RCE & credential leak vulnerability with the assigned CVE of CVE-2024-21413(Moniker Link). Haifei Li of Check Point Research is credited with discovering the vulnerability. And Why we shouldn't trust evey link that comes into out inbox.
+- [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Metasploit is the most widely used exploitation framework. Metasploit is a powerful tool that can support all phases of a penetration testing engagement, from information gathering to post-exploitation. Learned a lot about this tool in this room. Metasploit provides many modules that you can use for each step of the exploitation process. Through this room, we have seen the basic components of Metasploit and their respective use.
+- [Metasploit: Exploitation](https://tryhackme.com/room/metasploitexploitation?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Finally, I have gained some experience with msfvenom and the creation of stand-alone Meterpreter payloads. This is especially helpful in situations where I can upload a file to the target system or have the ability to download files to the target system. Meterpreter is a powerful tool that offers a lot of easy to use features during the post-exploitation phase.
 
   
 
