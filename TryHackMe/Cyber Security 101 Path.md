@@ -58,6 +58,7 @@ This beginner-friendly path aims to give a solid introduction to the different a
   - Group Policies
   - Authentication Methods
   - Trees, Forests and Trusts
+### Week 2-3 ( May 9 - May 22 2026 )
 - [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
   This particular room aims to understand the basics of the Burp Suite web application security testing framework. Our focus will revolve around the following key aspects:
@@ -119,6 +120,7 @@ Digged the manuals and then found out using a AI tool that I have to import the 
 
   Learn how to use John the Ripper, a powerful and adaptable hash-cracking tool.\
   Challenges Faced : Typing John as Jhon is the real deal here. Finding the password file each time. Cracked ZIP , RAR , SSH Hashes with the default ROCKYOU.TXT Had fun
+### Week 3 ( May 23 - May 29 2026 )
 - [Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
   Learned about Outlier's vulnerability. On February 13th, 2024, Microsoft announced a Microsoft Outlook RCE & credential leak vulnerability with the assigned CVE of CVE-2024-21413(Moniker Link). Haifei Li of Check Point Research is credited with discovering the vulnerability. And Why we shouldn't trust evey link that comes into out inbox.
