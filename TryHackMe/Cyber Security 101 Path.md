@@ -130,8 +130,95 @@ Digged the manuals and then found out using a AI tool that I have to import the 
 - [Metasploit: Exploitation](https://tryhackme.com/room/metasploitexploitation?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
   Finally, I have gained some experience with msfvenom and the creation of stand-alone Meterpreter payloads. This is especially helpful in situations where I can upload a file to the target system or have the ability to download files to the target system. Meterpreter is a powerful tool that offers a lot of easy to use features during the post-exploitation phase.
+- [Metasploit: Meterpreter](https://tryhackme.com/room/meterpreter?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
-  
+  Meterpreter is a Metasploit payload that supports the penetration testing process with many valuable components. Meterpreter will run on the target system and act as an agent within a command and control architecture. You will interact with the target operating system and files and use Meterpreter's specialized commands.\
+  Meterpreter has many versions which will provide different functionalities based on the target system.
+- [Blue](https://tryhackme.com/room/blue?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+  Learned how to exploit the famous EternalBlue vulnerability (MS17-010) to gain access to a vulnerable Windows machine. Practiced using Metasploit to establish a Meterpreter session, perform privilege escalation, migrate processes, and obtain NT AUTHORITY\SYSTEM access on the target machine.
+
+  Challenges Faced:
+  - Understanding the difference between normal shell sessions and Meterpreter sessions.
+  - Learning how privilege escalation and process migration work inside Metasploit.
+
+  How I Overcame Them:
+  - Used the EternalBlue exploit module in Metasploit to successfully gain access to the target machine.
+  - Explored Meterpreter commands for session management, privilege escalation, and process migration.
+  - Since the exploit directly provided a Meterpreter session, retrieving the flags and escalating privileges became easier and helped me understand the exploitation workflow better.
+
+- [Web Application Basics](https://tryhackme.com/room/webapplicationbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  - What components are involved in web applications
+  - The structure of the Uniform Resource Locator (URL)
+  - What are HTTP messages, requests, headers and responses
+  - The importance of Security headers
+- [JavaScript Essentials](https://tryhackme.com/room/javascriptessentials?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+  Learned the fundamentals of JavaScript, including JavaScript basics, integrating JavaScript with HTML, dialog functions, control flow statements, and working with minified JavaScript files. Also explored how attackers can abuse JavaScript features and learned some best practices to improve web application security.
+
+  Challenges Faced:
+  - Did not face major challenges during this room because of prior basic web development and JavaScript experience.
+
+  How I Overcame Them:
+  - Used my previous JavaScript knowledge to understand the concepts more quickly.
+  - Practiced analyzing JavaScript behavior, control flow logic, and minified files to strengthen my understanding of client-side scripting and web security concepts.
+- [SQL Fundamentals](https://tryhackme.com/room/sqlfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+  Learned the importance of databases in cybersecurity and explored core SQL concepts such as relational databases, tables, rows, columns, and primary keys. Practiced SQL CRUD operations including INSERT, SELECT, UPDATE, and DELETE, along with clauses, operators, and functions used to manage and retrieve data efficiently.
+
+  Challenges Faced:
+  - Did not face major technical challenges while completing the room.
+  - Difficulty remembering all SQL syntax and query structures at once.
+
+  How I Overcame Them:
+  - Practiced executing SQL queries directly in the provided environment to better understand database operations.
+  - Focused on understanding the logic behind SQL statements instead of trying to memorize every command immediately.
+  - Repeatedly used CRUD operations and SQL clauses to build familiarity with query syntax over time.
+
+- [Hydra](https://tryhackme.com/room/hydra?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how to use Hydra, a fast network logon cracker, to brute force website and SSH credentials. Practiced using Hydra syntax for HTTP POST login forms and SSH authentication attacks while understanding how wordlists such as rockyou.txt are used during password attacks.
+
+  Challenges Faced:
+  - Made several mistakes in Hydra command syntax, especially while working with HTTP POST forms.
+  - Initially assumed the username was "admin" instead of the correct username "molly".
+  - Had difficulty understanding how to properly structure the login request for successful brute forcing.
+
+  How I Overcame Them:
+  - Reviewed Hydra syntax through practice, YouTube tutorials, and guidance from AI tools like ChatGPT and Claude.
+  - Correctly identified the username and used the rockyou.txt wordlist to perform the brute force attack successfully.
+  - Improved my understanding of HTTP POST form attacks and SSH brute forcing by repeatedly testing and correcting the commands until the flags were captured.
+
+- [Gobuster: The Basics](https://tryhackme.com/room/gobusterthebasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how to use Gobuster for reconnaissance and enumeration tasks in offensive security. Explored directory and file enumeration, DNS subdomain enumeration, and virtual host enumeration while understanding the different Gobuster modes such as DIR, DNS, and VHOST.
+
+  Challenges Faced:
+  - Had difficulty understanding Gobuster syntax because it was my first time using the tool.
+  - Faced issues with buggy lab behavior where some commands and results were not working properly.
+  - Struggled with configuring the correct flags and command structures for different enumeration modes.
+
+  How I Overcame Them:
+  - Carefully reviewed the Gobuster documentation and practiced the command syntax multiple times.
+  - Used YouTube walkthroughs and external explanations to better understand how each enumeration mode works.
+  - Restarted the attack and victim machines after troubleshooting connectivity and lab issues, which resolved several problems and allowed the reconnaissance tasks to work correctly.
+
+
+- [Shells Overview](https://tryhackme.com/room/shellsoverview?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned the fundamentals of reverse shells, bind shells, and web shells along with how attackers use them for remote access and command execution. Practiced using Netcat listeners, PHP web shells, and reverse shell payloads to gain remote access to vulnerable systems.\
+  Challenges Faced:
+
+  * Confusion with TryHackMe lab machines because different tasks required different spawned targets.
+  * Difficulty understanding how web shell exploitation and reverse shell connections worked.
+  * Trouble setting up the reverse shell connection from the vulnerable web application.
+
+  How I Overcame Them:
+
+  * Carefully checked task requirements and spawned the correct machine for each task.
+  * Used the commands and hints from earlier tasks to retrieve the first flag successfully.
+  * Uploaded a PHP web shell through the vulnerable upload functionality, executed it from the uploads directory, and used a Netcat listener with a PHP reverse shell payload to gain access and retrieve the final flag.
+ 
+
+
 
 
 
