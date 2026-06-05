@@ -10,7 +10,7 @@ This beginner-friendly path aims to give a solid introduction to the different a
 - Defensive security solutions and tools
 - Cyber security careers
 
-#### CERTIFICATE EARNED : Loading
+#### CERTIFICATE EARNED : [HERE](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SAZT86G6EK.pdf) Issued on June 1, 2026
 
 ##### Completed Labs
 
