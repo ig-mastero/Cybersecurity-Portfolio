@@ -217,7 +217,61 @@ Digged the manuals and then found out using a AI tool that I have to import the 
   * Used the commands and hints from earlier tasks to retrieve the first flag successfully.
   * Uploaded a PHP web shell through the vulnerable upload functionality, executed it from the uploads directory, and used a Netcat listener with a PHP reverse shell payload to gain access and retrieve the final flag.
  
+### Week 4 ( May 30 - June 5 2026 )
+- SQLMap: The Basics
 
+  Learned the fundamentals of SQL injection and how SQLMap can automate the process of interacting with vulnerable web application databases. Explored how attackers can retrieve database information through manipulated requests and vulnerable parameters without normal authentication.
+
+  Challenges Faced:
+  - Initially struggled to understand how SQL injection works behind the scenes.
+  - Had difficulty understanding how URL parameters and requests interact with databases.
+
+  How I Overcame Them:
+  - Practiced using SQLMap commands against the provided lab targets.
+  - Focused on understanding the workflow of automated SQL injection instead of memorizing commands immediately.
+  - Observed how manipulated requests could expose database information through vulnerable web applications.
+- Defensive Security Introduction
+- SOC Fundamentals
+- Digital Forensics Fundamentals
+- Incident Response Fundamentals
+- Log Fundamentals
+
+  Learned the foundations of defensive security operations, including the role of SOC teams, incident response workflows, digital forensics, malware analysis, SIEM platforms, and log analysis. Explored how blue teams monitor systems, investigate threats, analyze incidents, and respond to suspicious activity in enterprise environments.
+
+  Challenges Faced:
+  - Large amount of theoretical concepts and terminology introduced across multiple rooms.
+  - Difficulty deeply focusing on every topic while speedrunning through the defensive security pathway.
+
+  How I Overcame Them:
+  - Focused on understanding the overall workflow of SOC operations instead of memorizing every technical detail.
+  - Used the rooms to build a foundational overview of blue team concepts before diving deeper into specialized topics later.
+  - Supplemented the learning process with practical examples and walkthroughs to maintain progress through the pathway.
+- SIEM
+- Firewall Fundamentals
+- IDS Fundamentals
+- Vulnerability Scanner Overview
+- CyberChef: The Basics
+- CAPA: The Basics
+- REMnux: Getting Started
+- FLARE VM: Arsenal of Tools
+- Security Principles
+- Careers in Cyber Security
+- Training Impact on Teams
+- [OWASP Top 10](https://tryhackme.com/room/owasptopten2025one?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+- IAAA Failures
+- [Application Design Flaws](https://tryhackme.com/room/owasptopten2025two?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+- [Insecure Data Handling](https://tryhackme.com/room/owasptopten2025three?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Explored fundamental defensive security technologies and concepts including SIEM systems, firewalls, intrusion detection systems, vulnerability scanners, malware analysis tools, and forensic environments such as REMnux and FLARE VM. Also learned about security principles, cybersecurity career paths, and major web application vulnerabilities from the OWASP Top 10, including authentication failures, insecure data handling, and application design flaws.
+
+  Challenges Faced:
+  - Managing a large number of tools, concepts, and security categories across multiple rooms.
+  - Balancing speed with deep understanding while progressing through the SOC-focused learning path.
+
+  How I Overcame Them:
+  - Focused on building broad foundational knowledge first before specializing in advanced defensive security topics.
+  - Used hands-on exercises and walkthroughs to understand how defensive tools and web vulnerabilities work in practice.
+  - Paid closer attention to the OWASP-related rooms, which helped strengthen understanding of common web application security risks and remediation concepts.
 
 
 
