@@ -3,8 +3,10 @@
 ## About Me
 B.Sc. Cybersecurity student actively learning SOC Analyst skills through hands-on labs and real-world security scenarios.
 
-## Current Focus (May 2026)
+## Current Focus (June 2026)
 - TryHackMe Pre Security Path : Done ✅
+- TryHackMe Cyber Security 101 : Done ✅
+- TryHackme SOC Level 1 : Loading
 
 ## Skills in Progress
 - **SIEM Tools:** Splunk, Security Onion
@@ -14,6 +16,7 @@ B.Sc. Cybersecurity student actively learning SOC Analyst skills through hands-o
 
 ## Certifications
 - TryHackMe Pre Security Path : [Certificate](https://tryhackme.com/certificate/THM-MLYUDJBJ4Z)
+- TryHackme Cyber Security 101 Path : [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SAZT86G6EK.pdf)
 - ISC2 Certified in Cybersecurity (In Progress)
 
 ## Projects
@@ -21,4 +24,4 @@ B.Sc. Cybersecurity student actively learning SOC Analyst skills through hands-o
 
 ---
 
-**Last Updated:** May 2026
+**Last Updated:** June 2026
