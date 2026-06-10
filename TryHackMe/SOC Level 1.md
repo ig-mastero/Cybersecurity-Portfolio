@@ -75,4 +75,14 @@ This path focuses on building the technical and operational skills required for 
     How I Overcame Them:
     - Practiced using different search queries and filters on the provided log files.
     - Explored the Splunk dashboard hands-on to better understand how logs are analyzed in a SOC environment.
+- [Elastic Stack: The Basics](https://tryhackme.com/room/investigatingwithelk101?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
+  Learned the fundamentals of the Elastic Stack (ELK Stack), including Elasticsearch, Logstash, Kibana, and Beats. Explored how logs and network traffic can be collected, processed, and visualized for monitoring and analysis in a SOC environment.
+
+  Challenges Faced:
+  - Understanding the role of different Elastic Stack components, especially Beats.
+  - Learning how to analyze and track recorded traffic using different search parameters.
+
+  How I Overcame Them:
+  - Explored the provided Elastic dashboard hands-on and practiced filtering recorded traffic data.
+  - Used different search parameters and queries to understand how logs and events are analyzed inside the Elastic Stack.
