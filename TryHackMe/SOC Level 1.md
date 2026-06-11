@@ -86,3 +86,14 @@ This path focuses on building the technical and operational skills required for 
   How I Overcame Them:
   - Explored the provided Elastic dashboard hands-on and practiced filtering recorded traffic data.
   - Used different search parameters and queries to understand how logs and events are analyzed inside the Elastic Stack.
+- [Introduction to SOAR](https://tryhackme.com/room/soar?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned the fundamentals of Security Orchestration, Automation, and Response (SOAR) and how it helps SOC teams automate repetitive tasks, integrate security tools, and improve incident response workflows. Explored the concept of playbooks and how different security solutions can work together through automation.
+
+  Challenges Faced:
+  - Understanding how different security tools connect and communicate within a SOAR workflow.
+  - Had some trial and error while configuring the threat intelligence integration workflow.
+
+  How I Overcame Them:
+  - Followed the workflow step-by-step and tested different configurations to understand how the automation process worked.
+  - Successfully completed the playbook by identifying the required components and ensuring a smooth workflow execution.
