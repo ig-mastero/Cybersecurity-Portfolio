@@ -124,3 +124,16 @@ This path focuses on building the technical and operational skills required for 
   How I Overcame Them:
   - Carefully analyzed the purpose of each attack technique before assigning it to a stage.
   - Used trial and error during the challenge and reviewed the kill chain phases until the mappings became clear.
+
+- [Unified Kill Chain](https://tryhackme.com/room/unifiedkillchain?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned about the Unified Kill Chain (UKC), a framework used to understand how cyber attacks progress and how defenders can identify and mitigate threats. Explored the different phases of the UKC and how it builds upon frameworks such as the Cyber Kill Chain and MITRE ATT&CK to provide a more complete view of attacker behavior.
+
+  Challenges Faced:
+  - Understanding the purpose of another attack framework after already learning the Cyber Kill Chain.
+  - Keeping track of the different phases and how they relate to attacker objectives.
+
+  How I Overcame Them:
+  - Focused on understanding the overall attack lifecycle rather than memorizing every phase.
+  - Compared the UKC with the Cyber Kill Chain to see how it provides a more detailed view of attacker activities.
+ 
