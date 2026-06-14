@@ -97,3 +97,30 @@ This path focuses on building the technical and operational skills required for 
   How I Overcame Them:
   - Followed the workflow step-by-step and tested different configurations to understand how the automation process worked.
   - Successfully completed the playbook by identifying the required components and ensuring a smooth workflow execution.
+
+
+### Week 5 (June 6 - June 19, 2026) 
+
+- [Pyramid of Pain](https://tryhackme.com/room/pyramidofpainax?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned the concept of the Pyramid of Pain and how different indicators of compromise (IOCs) affect attackers. Explored how indicators such as IP addresses are easy for attackers to change, while tools, tactics, techniques, and procedures (TTPs) are much harder to modify and therefore more valuable for defenders to detect.
+
+  Challenges Faced:
+  - Understanding the differences between the various layers of the Pyramid of Pain.
+  - Determining which indicators belonged to which layer during the practical exercise.
+
+  How I Overcame Them:
+  - Applied the Pyramid of Pain model to the challenge scenarios and compared the impact of different indicators on attackers.
+  - Practiced classifying indicators into the correct layers until the relationships became clearer.
+ 
+- [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned the Cyber Kill Chain framework and how attackers progress through different stages of an attack. Explored the phases of reconnaissance, weaponization, delivery, exploitation, installation, command and control, and actions on objectives. Also practiced mapping attack techniques and activities to the correct stages of the kill chain.
+
+  Challenges Faced:
+  - Differentiating between similar attack stages during the practical exercise.
+  - Matching attack techniques and activities to their correct phase in the kill chain.
+
+  How I Overcame Them:
+  - Carefully analyzed the purpose of each attack technique before assigning it to a stage.
+  - Used trial and error during the challenge and reviewed the kill chain phases until the mappings became clear.
