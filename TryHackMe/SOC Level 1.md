@@ -137,3 +137,54 @@ This path focuses on building the technical and operational skills required for 
   - Focused on understanding the overall attack lifecycle rather than memorizing every phase.
   - Compared the UKC with the Cyber Kill Chain to see how it provides a more detailed view of attacker activities.
  
+### Week 6-7 (June 20 - July 6th, 2026) 
+## Study Break For 6th Semester examination
+
+#### Here are The MAJOR Subjects Covered in this semester
+- Computer Networks
+
+| Major Topic Area                                               | 
+| -------------------------------------------------------------- | 
+| Network Fundamentals (OSI, TCP/IP, LAN/WAN, Client-Server)     | 
+| Network Devices                                                | 
+| IP Addressing & Network Layer Concepts                         | 
+| Routing & Switching Concepts                                   | 
+| Data Transmission & Communication Methods                      | 
+| Network Protocols (TCP, UDP, DNS, DHCP, HTTP, FTP, etc.)       | 
+| Network Security Threats                                       | 
+| Security Mechanisms (Firewalls, IPSec, Kerberos, Trust Models) | 
+| IEEE Standards & Legacy Networking Technologies                | 
+
+- Malware Analysis
+
+| Major Topic Area                                                                |
+| ------------------------------------------------------------------------------- |
+| Malware Fundamentals (Virus, Worm, Trojan, Rootkit, Indicators, Classification) |
+| Malware Analysis Concepts (Static vs Dynamic Analysis, Analysis Workflow)       |
+| Malware Analysis Lab Setup & Virtualization                                     |
+| Malware Analysis Tools & Sandboxes                                              |
+| Malware Detection (YARA, ClamAV Signatures)                                     |
+| Reverse Engineering Concepts                                                    |
+| x86 Assembly Basics                                                             |
+| Malware Forensics                                                               |
+| Malware Debugging                                                               |
+| Memory Forensics & Volatility                                                   |
+| Threat Intelligence & Domain/IP Research                                        |
+| Malware Case Studies                                                            |
+
+- Cyber Forencis
+
+| Major Topic Area                        | 
+| --------------------------------------- | 
+| Digital Forensics Fundamentals          | 
+| Cybercrime & Investigation Concepts     | 
+| Evidence Collection & Preservation      | 
+| Crime Scene Analysis & Search/Seizure   | 
+| Evidence Management & Documentation     | 
+| Computer Forensics Process              | 
+| Network Forensics                       | 
+| Mobile Forensics                        | 
+| Legal Aspects (IT Act 2000 & 2008)      | 
+| Recent Trends in Cyber/Mobile Forensics | 
+
+- 
