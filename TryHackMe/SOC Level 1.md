@@ -187,4 +187,6 @@ This path focuses on building the technical and operational skills required for 
 | Legal Aspects (IT Act 2000 & 2008)      | 
 | Recent Trends in Cyber/Mobile Forensics | 
 
-- 
+### Week 8 (July 6th - July 12th, 2026) 
+
+
