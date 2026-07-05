@@ -24,4 +24,4 @@ B.Sc. Cybersecurity student actively learning SOC Analyst skills through hands-o
 
 ---
 
-**Last Updated:** June 2026
+**Last Updated:** July 2026
