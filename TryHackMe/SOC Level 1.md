@@ -189,4 +189,51 @@ This path focuses on building the technical and operational skills required for 
 
 ### Week 8 (July 6th - July 12th, 2026) 
 
+- [MITRE](https://tryhackme.com/room/mitre?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned the fundamentals of the MITRE ATT&CK framework and its role in modern cybersecurity. Explored how security teams use ATT&CK for threat intelligence, cyber analytics, defensive strategies, and understanding attacker techniques. Also got an overview of other MITRE resources and projects used across the security industry.
+
+  Challenges Faced:
+  - Understanding the purpose of the different MITRE resources and how they relate to each other.
+
+  How I Overcame Them:
+  - Focused on understanding the practical use of the ATT&CK framework and explored the examples provided throughout the room.
+
+- [Summit](https://tryhackme.com/room/summit?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Worked through a purple team simulation where I configured security controls to detect and block malware. Used multiple detection techniques, including file hash (SHA256), IP and DNS blocking, firewall rules, and Sigma rules to identify and prevent different malware behaviors. The room demonstrated how defenders progressively move up the Pyramid of Pain by detecting increasingly difficult indicators.
+
+  Challenges Faced:
+  - Writing Sigma rules and understanding which detection method was most effective for each malware sample.
+  - Some scenarios required combining multiple detection techniques, which took a few attempts to get right.
+
+  How I Overcame Them:
+  - Used the provided logs to understand each malware sample's behavior and refined my detection rules accordingly.
+  - Referred to documentation and a few walkthroughs when I got stuck, then tested the rules until all malware samples were successfully detected.
+
+- [Phishing Analysis Fundamentals](https://tryhackme.com/room/phishingemails1tryoe?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned the fundamentals of phishing analysis by exploring the structure of an email, including email addresses, headers, body content, delivery paths, and common phishing techniques. The room provided a walkthrough of how analysts inspect emails to identify potential phishing attempts.
+
+  Challenges Faced:
+  - No major challenges, as this was primarily a walkthrough-based room.
+
+  How I Overcame Them:
+  - Followed the guided exercises and focused on understanding the purpose of each email component and its role in phishing analysis.
+
+- [Phishing Emails in Action](https://tryhackme.com/room/phishingemails2rytmuv?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how to identify common phishing emails by analyzing sender addresses, hyperlinks, email content, and common social engineering themes such as order cancellations, package tracking, account suspension, and fake purchase notifications. The room demonstrated how to verify the legitimacy of an email before interacting with its contents.
+
+  Challenges Faced:
+  - No major challenges, as this was a walkthrough-based room.
+
+  How I Overcame Them:
+  - Followed the guided examples and practiced identifying suspicious links and sender information to distinguish phishing emails from legitimate ones.
+
+
+
+
+
+
 
