@@ -263,3 +263,15 @@ Here are The MAJOR Subjects Covered in this semester
   How I Overcame Them:
   - Analyzed each email artifact step by step, verifying sender details, IP information, authentication records, and the attachment hash. Completed the investigation independently without relying on walkthroughs.
 
+- [Snapped Phishing Line](https://tryhackme.com/room/snappedphishingline?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Investigated a phishing campaign by analyzing a malicious email, PDF attachment, and phishing website impersonating Microsoft Office 365. Identified the sender, extracted indicators of compromise (IoCs), analyzed a malicious ZIP file, verified its SHA-256 hash using VirusTotal, and examined compromised credentials. Also used CyberChef to decode an encoded flag as part of the investigation.
+
+  Challenges Faced:
+  - Tracing evidence across multiple sources, including the phishing email, website, downloaded files, and compromised credentials.
+  - Finding the hidden `flag.txt` file, which required manually exploring the web directory rather than relying on the visible website.
+
+  How I Overcame Them:
+  - Investigated each artifact step by step using the provided tools and followed the evidence to identify the phishing infrastructure.
+  - Used the provided hint to locate the hidden file, then decoded the retrieved data with CyberChef to successfully complete the investigation.
+ 
