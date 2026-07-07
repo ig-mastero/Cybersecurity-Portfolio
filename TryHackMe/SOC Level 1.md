@@ -138,9 +138,9 @@ This path focuses on building the technical and operational skills required for 
   - Compared the UKC with the Cyber Kill Chain to see how it provides a more detailed view of attacker activities.
  
 ### Week 6-7 (June 20 - July 6th, 2026) 
-## Study Break For 6th Semester examination
+#### Study Break For 6th Semester examination
 
-#### Here are The MAJOR Subjects Covered in this semester
+Here are The MAJOR Subjects Covered in this semester
 - Computer Networks
 
 | Major Topic Area                                               | 
@@ -230,10 +230,36 @@ This path focuses on building the technical and operational skills required for 
 
   How I Overcame Them:
   - Followed the guided examples and practiced identifying suspicious links and sender information to distinguish phishing emails from legitimate ones.
+ 
+- [Phishing Analysis Tools](https://tryhackme.com/room/phishingemails3tryoe?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how SOC analysts investigate suspicious emails using phishing analysis tools. Explored email header and body analysis, identifying phishing artifacts, inspecting sender information, hyperlinks, and reply-to addresses, and using malware sandbox tools such as ANY.RUN, Hybrid Analysis, and Joe Sandbox to analyze potentially malicious attachments and links.
+
+  Challenges Faced:
+  - Understanding the different email fields and determining which indicators could reveal a phishing attempt.
+  - Becoming familiar with the purpose of various phishing analysis tools.
+
+  How I Overcame Them:
+  - Followed the walkthrough and analyzed the provided phishing email step by step, inspecting its headers, sender details, hyperlinks, and other indicators to determine its legitimacy.
+ 
+- [Phishing Prevention](https://tryhackme.com/room/phishingemails4gkxh?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned the common techniques organizations use to prevent phishing attacks, including SPF, DKIM, DMARC, S/MIME, SMTP response analysis, and email inspection. Also analyzed a network capture (`traffic.pcap`) in Wireshark to filter SMTP traffic and investigate email communication.
+
+  Challenges Faced:
+  - Understanding the purpose of different email authentication protocols and filtering the relevant packets in Wireshark.
+
+  How I Overcame Them:
+  - Followed the walkthrough while inspecting the packet capture and practiced applying filters to locate the required SMTP traffic and email-related information.
 
 
+- [Greenholt Phishing](https://tryhackme.com/room/phishingemails5fgjlzxc?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
+  Investigated a simulated phishing email by analyzing its headers, sender information, IP addresses, SPF and DMARC records, and malicious attachment. Used tools such as CyberChef, WHOIS, and VirusTotal to gather indicators and determine that the attachment was a Trojan based on its SHA-256 hash. Successfully completed the investigation and reported the findings.
 
+  Challenges Faced:
+  - Correlating information from multiple tools to determine the legitimacy of the email and its attachment.
 
-
+  How I Overcame Them:
+  - Analyzed each email artifact step by step, verifying sender details, IP information, authentication records, and the attachment hash. Completed the investigation independently without relying on walkthroughs.
 
