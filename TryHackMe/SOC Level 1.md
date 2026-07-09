@@ -275,3 +275,15 @@ Here are The MAJOR Subjects Covered in this semester
   - Investigated each artifact step by step using the provided tools and followed the evidence to identify the phishing infrastructure.
   - Used the provided hint to locate the hidden file, then decoded the retrieved data with CyberChef to successfully complete the investigation.
  
+- [Phishing Unfolding](https://tryhackme.com/soc-sim/public-summary/d004a97d6af92437d7df917029ca2c4bd6aeb328bc26faee17f1274543a00f648b7ab80948816c2f38042af244a23210)
+
+  Completed a SOC simulation involving phishing investigation using a live SIEM environment and Splunk Enterprise. Analyzed security alerts, reviewed email and log data, and determined whether each alert was a true positive or false positive. Investigated each case by identifying the who, what, when, where, and why of the activity before deciding whether escalation was required.
+
+  Challenges Faced:
+  - Correlating information from multiple log sources to accurately classify alerts.
+  - Determining whether suspicious activity warranted escalation or could be dismissed as a false positive.
+
+  How I Overcame Them:
+  - Investigated each alert systematically using the SIEM dashboard and Splunk searches, validating the available evidence before making a decision.
+  - Successfully completed the simulation with a score of over 80%, gaining hands-on experience with SIEM-based alert triage.
+ 
