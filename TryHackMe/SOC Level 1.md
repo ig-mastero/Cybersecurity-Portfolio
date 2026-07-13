@@ -287,3 +287,35 @@ Here are The MAJOR Subjects Covered in this semester
   - Investigated each alert systematically using the SIEM dashboard and Splunk searches, validating the available evidence before making a decision.
   - Successfully completed the simulation with a score of over 80%, gaining hands-on experience with SIEM-based alert triage.
  
+- [Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned what network traffic analysis (NTA) is and why it is crucial for cybersecurity. Explored how to capture and monitor network traffic, the flow of data, and tools like Wireshark that help visualize and analyze it.
+
+  Challenges Faced:
+  - None significant, as this was an introductory walkthrough.
+
+  How I Overcame Them:
+  - Followed the guided examples, understood traffic flow, and learned how to prepare for deeper traffic analysis using Wireshark.
+ 
+- [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+  
+  Learned the fundamental skills of using Wireshark to analyze network traffic. Practiced loading and inspecting `http1.pcapng` and `exercise.pcapng` files. Answered questions like the SHA-256 hash of the capture file, total packet count, and performed basic packet filtering to navigate the traffic.
+
+  Challenges Faced:
+  - No major challenges; it was a surface-level walkthrough.
+
+  How I Overcame Them:
+  - Followed the guided steps, used packet filtering to locate key data, and reviewed each packet to understand traffic flow.
+
+- [Wireshark: Packet Operations](https://tryhackme.com/room/wiresharkpacketoperations?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Deepened my understanding of packet analysis with Wireshark. Practiced using summary statistics, protocol details, and advanced packet filtering to locate specific patterns in network traffic. Applied principles like string matching, case filtering, and protocol-based searches to analyze complex traffic captures.
+
+  Challenges Faced:
+  - More nuanced filtering required compared to previous rooms.
+  - Needed to carefully select appropriate protocol and string filters.
+
+  How I Overcame Them:
+  - Followed the structured tasks step-by-step, applying different filters until I found the packets matching the criteria.
+  - Practiced using both broad and advanced filtering techniques for deeper insights.
+ 
