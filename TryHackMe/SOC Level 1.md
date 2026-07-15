@@ -319,3 +319,4 @@ Here are The MAJOR Subjects Covered in this semester
   - Followed the structured tasks step-by-step, applying different filters until I found the packets matching the criteria.
   - Practiced using both broad and advanced filtering techniques for deeper insights.
  
+- [NetworkMiner](https://tryhackme.com/room/networkminer?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
