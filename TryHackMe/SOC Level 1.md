@@ -319,4 +319,34 @@ Here are The MAJOR Subjects Covered in this semester
   - Followed the structured tasks step-by-step, applying different filters until I found the packets matching the criteria.
   - Practiced using both broad and advanced filtering techniques for deeper insights.
  
-- [NetworkMiner](https://tryhackme.com/room/networkminer?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+- [Network Miner](https://tryhackme.com/room/networkminer?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned to use Network Miner, an older network analysis tool, to extract details from network traffic. Compared two versions (2.7.1 and 1.6.4) as they had different compatibility quirks. Identified IP communication, sequence numbers, and extracted credentials from captured packets.
+
+  Challenges Faced:
+  - Switching between two versions of Network Miner was confusing and slowed down analysis.
+  - Manually digging through packets to find the exact details required a lot of trial and error.
+
+  How I Overcame Them:
+  - Carefully navigated each version of the tool, comparing outputs until I confirmed the correct details.
+  - Systematically examined each packet and used version-specific strengths to verify credentials and traffic flows.
+ 
+- [Network Security Essentials](https://tryhackme.com/room/networksecurityessentials?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned key aspects of network security and essential practices for monitoring and protecting against attacks. Focused on analyzing firewall logs, IDS alerts, and VPN authentication logs by digging through them manually using the terminal.
+
+  Challenges Faced:
+  - The most difficult part was learning to efficiently use command-line tools like `find` and `grep` to filter logs and pinpoint relevant events.
+
+  How I Overcame Them:
+  - Followed the guided steps, practiced using `find` and `grep` commands to narrow down log entries, and supplemented learning with a few YouTube videos for efficiency tips.
+ 
+- [Network Discovery and Detection](https://tryhackme.com/room/networkdiscoverydetection?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how attackers discover networks using techniques like vertical and horizontal scanning, as well as external versus internal scans. Practiced using the Kibana front end to filter logs and identify scanning IPs within the network.
+
+  Challenges Faced:
+  - No major challenges, as this was a guided walkthrough.
+
+  How I Overcame Them:
+  - Followed the instructions, applied the given filters in Kibana, and easily identified internal versus external scans.
