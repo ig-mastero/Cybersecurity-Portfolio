@@ -350,3 +350,24 @@ Here are The MAJOR Subjects Covered in this semester
 
   How I Overcame Them:
   - Followed the instructions, applied the given filters in Kibana, and easily identified internal versus external scans.
+
+- [Data Exfiltration Detection](https://tryhackme.com/room/dataexfildetection?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how to detect data exfiltration attempts across different network channels. Explored common exfiltration techniques, including DNS tunneling, FTP, HTTP, and ICMP, and used Splunk and Wireshark to investigate network traffic and identify indicators of suspicious data transfers.
+
+  Challenges Faced:
+  - Understanding how different protocols can be abused for data exfiltration and identifying the relevant indicators in network traffic.
+
+  How I Overcame Them:
+  - Analyzed the provided network captures and logs using Splunk and Wireshark, applying filters and protocol-specific analysis to detect suspicious communication patterns.
+ 
+- [Man-in-the-Middle Detection](https://tryhackme.com/room/mitmdetection?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Analyzed a network capture (PCAP) using Wireshark to identify man-in-the-middle attacks. Focused on techniques like ARP spoofing, DNS spoofing, and SSL stripping. The goal was to recognize these attacks to inform defensive measures and develop detection rules in a SIEM.
+
+  Challenges Faced:
+  - Identifying subtle signs of ARP spoofing and SSL stripping required close inspection of traffic.
+
+  How I Overcame Them:
+  - Carefully examined packet sequences and DNS/SSL flows, allowing me to spot anomalies and learn to create detection rules in the SIEM.
+ 
