@@ -286,6 +286,8 @@ Here are The MAJOR Subjects Covered in this semester
   How I Overcame Them:
   - Investigated each alert systematically using the SIEM dashboard and Splunk searches, validating the available evidence before making a decision.
   - Successfully completed the simulation with a score of over 80%, gaining hands-on experience with SIEM-based alert triage.
+
+### Week 9 (July 13th - July 20th, 2026) 
  
 - [Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
