@@ -373,3 +373,5 @@ Here are The MAJOR Subjects Covered in this semester
   How I Overcame Them:
   - Carefully examined packet sequences and DNS/SSL flows, allowing me to spot anomalies and learn to create detection rules in the SIEM.
  
+###  Week 10 (July 21st - July 27th, 2026) 
+
