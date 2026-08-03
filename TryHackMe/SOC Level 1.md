@@ -431,3 +431,56 @@ Here are The MAJOR Subjects Covered in this semester
  
 
 ###  Week 11 (July 28th - August 3rd 2026) 
+
+
+- Detecting Web DDoS
+
+  Learned how to detect Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) attacks using Splunk. Explored how attackers leverage botnets to overwhelm web servers, identified common indicators such as spikes in HTTP requests and HTTP 503 responses, and learned defensive techniques including rate limiting and IP blocking.
+
+  Challenges Faced:
+  - Understanding how to distinguish normal web traffic from a DDoS attack using Splunk logs.
+  - Interpreting request patterns and identifying the source of excessive traffic.
+
+  How I Overcame Them:
+  - Analyzed the provided Splunk data to identify abnormal request volumes and HTTP 503 errors.
+  - Used log analysis to determine the attacking IPs and understood how rate limiting and IP blocking can mitigate DDoS attacks.
+ 
+
+- [Windows Logging for SOC](https://tryhackme.com/room/windowsloggingforsoc?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned the fundamentals of Windows logging and how SOC analysts use Windows Event Logs for security monitoring. Explored Security, System, and PowerShell logs, understood the EVTX log format, and learned how Windows assigns Event IDs to different activities such as successful and failed logins, process creation, registry changes, network connections, and PowerShell execution.
+
+  Challenges Faced:
+  - Remembering the purpose of different Event IDs and understanding which Windows logs are most relevant during an investigation.
+
+  How I Overcame Them:
+  - Explored the provided EVTX files using Event Viewer and reviewed common Event IDs to understand how different Windows activities are recorded and analyzed.
+
+
+- [Windows Initial Access Detection](https://tryhackme.com/room/windowsthreatdetection1?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how to detect common Windows initial access techniques using Windows Event Logs and Sysmon. Investigated scenarios involving network scans, RDP brute-force attacks, phishing, and infected USB devices. Analyzed Event IDs such as 4625 for failed logon attempts and Sysmon events for process creation and file creation to trace attacker activity.
+
+  Challenges Faced:
+  - Correlating multiple Windows and Sysmon events to understand the complete attack sequence.
+  - Identifying how different initial access methods leave distinct artifacts in the logs.
+
+  How I Overcame Them:
+  - Analyzed the event logs step by step, following the sequence of events from initial access to post-compromise activity.
+  - Used Event IDs and Sysmon logs to identify the source of the attack and understand how each technique was reflected in the system logs.
+ 
+
+- [Windows Threat Detection 2](https://tryhackme.com/room/windowsthreatdetection2?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how to identify Indicators of Compromise (IoCs) by analyzing Windows and Sysmon logs. Explored attacker activities such as system discovery, security tool enumeration, malicious DNS requests, credential and sensitive file discovery, and data collection prior to exfiltration. Practiced recognizing suspicious behaviors that indicate an active compromise.
+
+  Challenges Faced:
+  - Understanding how seemingly legitimate processes can exhibit malicious behavior through their actions.
+  - Correlating multiple events to identify the attacker's objectives and progression.
+
+  How I Overcame Them:
+  - Investigated the Windows and Sysmon logs step by step, focusing on process activity, DNS requests, and file access patterns to identify suspicious behavior and understand the attack sequence.
+ 
+
+###  Week 11 (August 4th - August 10th 2026) 
+
