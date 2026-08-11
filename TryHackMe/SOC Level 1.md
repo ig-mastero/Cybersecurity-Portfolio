@@ -484,3 +484,26 @@ Here are The MAJOR Subjects Covered in this semester
 
 ###  Week 11 (August 4th - August 10th 2026) 
 
+- [Windows Threat Detection 3](https://tryhackme.com/room/windowsthreatdetection3?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how attackers maintain persistence and establish command and control (C2) after compromising a Windows system. Investigated techniques including RDP-based persistence, malicious services, scheduled tasks, backdoors, and registry run keys. Analyzed Sysmon and Security EVTX logs to identify malicious activity and changes made by attackers.
+
+  Challenges Faced:
+  - Manually analyzing Sysmon and Security logs to trace persistence mechanisms and attacker activity.
+  - Understanding how different persistence techniques appear in Windows logs and registry changes.
+
+  How I Overcame Them:
+  - Followed the attack sequence through the logs and examined the relevant events and registry changes to identify how persistence was established.
+ 
+- [Linux Logging for SOC](https://tryhackme.com/room/linuxloggingforsoc?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned about Linux log sources, authentication logs, application logs, runtime monitoring, and auditd. Explored common sources such as `auth.log`, application-specific logs, `/var/log/`, and Bash history. Practiced manually investigating logs with auditd and `ausearch` to identify relevant security events and understand how broader log analysis can improve threat detection.
+
+  Challenges Faced:
+  - Working with auditd and especially the `ausearch` command was confusing and frustrating.
+  - Manually digging through large amounts of Linux log data was time-consuming.
+
+  How I Overcame Them:
+  - Practiced using auditd and `ausearch` to search through relevant events and gradually became more comfortable navigating Linux logs.
+ 
+
