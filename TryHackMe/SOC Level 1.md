@@ -507,3 +507,115 @@ Here are The MAJOR Subjects Covered in this semester
   - Practiced using auditd and `ausearch` to search through relevant events and gradually became more comfortable navigating Linux logs.
  
 
+- [Linux Threat Detection 1](https://tryhackme.com/room/linuxthreatdetection1?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how to detect initial access and trace attacks in a Linux environment. Investigated `auth.log` to identify the breach and attacker activity, then used Process IDs (PID) and Parent Process IDs (PPID) to trace the process tree and backtrack the origin of the attack.
+
+  Challenges Faced:
+  - Manually searching through authentication logs and correlating processes was slightly challenging.
+
+  How I Overcame Them:
+  - Correlated the relevant log entries using PIDs and PPIDs to reconstruct the attack chain and identify the source of the compromise.
+ 
+- [Linux Threat Detection 2](https://tryhackme.com/room/linuxthreatdetection2?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how to identify Linux discovery commands and common threats targeting Linux systems. Investigated `auth.log` and used `ausearch` to trace attacker activity, understand how the environment was enumerated, and investigate a simulated cryptominer attack.
+
+  Challenges Faced:
+  - `ausearch` was difficult to use and its syntax was not very intuitive.
+  - Manually searching and correlating the logs took some effort.
+
+  How I Overcame Them:
+  - Used the room's context along with YouTube references to understand the required `ausearch` commands and successfully completed the investigation.
+ 
+
+- [Linux Threat Detection 3](https://tryhackme.com/room/linuxthreatdetection3?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+
+- [Malware Classification](https://tryhackme.com/room/malwareclassification?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned the basics of malware classification, including common malware types, their behavior, purpose, and potential impact on systems. Also explored the differences between executable and script-based malware.
+
+  Challenges Faced:
+  - This was mainly a theory-based walkthrough with minimal practical challenges.
+
+  How I Overcame Them:
+  - Used the interactive exercises to review and match malware types with their correct descriptions.
+ 
+
+- [Intro to Malware Analysis](https://tryhackme.com/room/intromalwareanalysis?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned the basics of malware analysis, including static and dynamic analysis, common investigation tools, and the importance of using a safe analysis environment. Investigated a provided malware sample using VirusTotal and Hybrid Analysis to identify indicators and understand the malware's behavior through sandboxed analysis.
+
+  Challenges Faced:
+  - Understanding the indicators and behavior of the malware sample during the initial analysis.
+
+  How I Overcame Them:
+  - Used VirusTotal and Hybrid Analysis to examine the sample, review its behavior in a sandbox, and extract the required information.
+ 
+
+- [Living Off the Land Attacks](https://tryhackme.com/room/livingoffthelandattacks?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how attackers abuse legitimate, built-in system tools to execute malicious activity while blending into normal system operations. Explored common LOL techniques involving PowerShell, WMI, MSHTA, Rundll32, scheduled tasks, and malicious payload execution. Also learned about LOLBAS for Windows and GTFOBins for Linux, along with detecting LOL behavior through logs and SIEM alerts.
+
+  Challenges Faced:
+  - This was a walkthrough room, so there were no major challenges.
+
+  How I Overcame Them:
+  - Followed the practical examples and reviewed how legitimate tools can be abused to understand the techniques and detection methods.
+ 
+
+- [Shadow Trace](https://tryhackme.com/room/shadowtrace?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Analyzed a suspicious file named `Windows Update.exe` and used different analysis tools to uncover hidden information. Investigated the file's hash, URL, domain, and suspicious indicators, and decoded a Base64-encoded command to identify the DLL library involved in the attack.
+
+  Challenges Faced:
+  - The room was practical and required using multiple tools to extract and decode information from the file.
+
+  How I Overcame Them:
+  - Used the provided tools to analyze the file, decode the relevant information, and answer the investigation questions.
+ 
+
+- [Intro to Cyber Threat Intel](https://tryhackme.com/room/cyberthreatintel?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned the fundamentals of Cyber Threat Intelligence (CTI) and its importance for SOC analysts. Covered the six stages of the CTI lifecycle: Planning & Direction, Collection, Processing, Analysis, Dissemination, and Feedback. Also explored intelligence sharing, open-source intelligence platforms, MITRE ATT&CK, Cyber Kill Chain, and vulnerability resources such as CVE, CVSS, and NVD.
+
+  Challenges Faced:
+  - This was mainly a basic, theory-focused room with limited practical challenges.
+
+  How I Overcame Them:
+  - Followed the walkthrough and explored the provided threat intelligence platforms and resources to understand how they support SOC investigations.
+ 
+
+- [File and Hash Threat Intel](https://tryhackme.com/room/fileandhashthreatintel?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how to analyze suspicious file names and paths using basic heuristics, generate and validate file hashes, and enrich file information using VirusTotal and MalwareBazaar. Also explored sandbox telemetry and mapped observed malware behavior to the MITRE ATT&CK framework, including identifying relevant PowerShell activity.
+
+  Challenges Faced:
+  - Identifying suspicious files based on naming patterns, such as double extensions, and correlating their hashes with threat intelligence sources.
+
+  How I Overcame Them:
+  - Investigated the provided files, checked their hashes against available threat intelligence platforms, and used the provided sandbox results to identify malicious behavior and relevant MITRE ATT&CK techniques.
+
+
+ - [IP and Domain Threat Intel](https://tryhackme.com/room/ipanddomainthreatintel?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how to enrich IP addresses and domains using Whois enumeration, DNS records, TLS details, ASN, and geolocation data. Explored threat intelligence sources such as VirusTotal, Shodan, and IP-to-Proxy to identify suspicious services, VPNs, proxies, and Tor exit nodes. Also learned the importance of correlating information from multiple sources instead of relying on a single verdict.
+
+  Challenges Faced:
+  - The room was marked as medium difficulty, but the practical tasks were relatively straightforward.
+
+  How I Overcame Them:
+  - Followed the walkthrough and used the provided threat intelligence tools to enumerate domains, DNS records, IP addresses, and related infrastructure.
+
+
+- [Invite Only](https://tryhackme.com/room/invite-only?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+  Learned how to investigate flagged IPs, SHA256 hashes, URLs, and domains and turn the findings into usable threat intelligence. Investigated a simulated malware case using VirusTotal, Hybrid Analysis, and the tools provided inside the lab machine to identify malware activity and files dropped on the system.
+
+  Challenges Faced:
+  - This was a practical, hands-on investigation, requiring correlation between online threat intelligence sources and the information available inside the lab environment.
+
+  How I Overcame Them:
+  - Used the provided VM analysis tool alongside VirusTotal and Hybrid Analysis to investigate the flagged indicators and identify the malware activity. The built-in tool provided clearer and more direct information, making the investigation easier.
+ 
+
