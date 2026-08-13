@@ -14,7 +14,7 @@ This path focuses on building the technical and operational skills required for 
 - Network monitoring
 - Defensive security workflows
 
-#### CERTIFICATE EARNED : Loading
+#### CERTIFICATE EARNED : [HERE](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZMLIFBD1VQ.pdf)
 
 ##### Completed Labs
 
@@ -482,7 +482,7 @@ Here are The MAJOR Subjects Covered in this semester
   - Investigated the Windows and Sysmon logs step by step, focusing on process activity, DNS requests, and file access patterns to identify suspicious behavior and understand the attack sequence.
  
 
-###  Week 11 (August 4th - August 10th 2026) 
+###  Week 11 (August 4th - August 9th 2026) 
 
 - [Windows Threat Detection 3](https://tryhackme.com/room/windowsthreatdetection3?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
 
@@ -617,5 +617,106 @@ Here are The MAJOR Subjects Covered in this semester
 
   How I Overcame Them:
   - Used the provided VM analysis tool alongside VirusTotal and Hybrid Analysis to investigate the flagged indicators and identify the malware activity. The built-in tool provided clearer and more direct information, making the investigation easier.
+ 
+
+- [Log Analysis with SIEM](https://tryhackme.com/room/loganalysiswithsiem?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how SIEM solutions collect and analyze data from different sources, including Windows, Linux, web, and network logs. Practiced investigating malicious behavior using a Splunk-based SIEM provided in the lab environment and explored the importance of effective log collection and analysis.
+
+  Challenges Faced:
+  - Splunk queries were sometimes long and difficult to construct.
+  - Manually tuning queries to retrieve the required results was the most challenging part.
+
+  How I Overcame Them:
+  - Carefully modified and tuned the Splunk queries to filter the relevant data and obtain the desired results.
+ 
+
+- [Alert Triage with Splunk](https://tryhackme.com/room/alerttriagewithsplunk?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how SOC analysts investigate and triage security alerts using Splunk. Investigated three scenarios: Linux brute-force attacks, Windows persistence through a malicious service, and web shell activity. Used Splunk indexes and event data to identify affected systems, users, attack duration, user agents, and other relevant indicators.
+
+  Challenges Faced:
+  - Manually navigating Splunk logs and correlating events to answer investigation questions.
+
+  How I Overcame Them:
+  - Used Splunk searches and event details to narrow down the relevant activity and correlate the indicators across each scenario.
+ 
+
+- [Alert Triage with Elastic](https://tryhackme.com/room/alerttriagewithelastic?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Learned how to use Kibana and Elastic to investigate security alerts, identify indicators of compromise, and correlate events across multiple log sources. Investigated web activity, account creation events, attack timelines, and malicious artifacts generated on affected systems.
+
+  Challenges Faced:
+  - Sorting through large amounts of Elastic data and manually refining queries was the main challenge.
+  - Correlating events across specific timestamps required careful investigation.
+
+  How I Overcame Them:
+  - Used Kibana queries and filters to narrow down the relevant events, correlate activity across log sources, and identify the details required to complete the investigation.
+ 
+
+- [ItsBitsy](https://tryhackme.com/room/itsybitsy?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Investigated a potential Command and Control (C2) communication detected by an IDS. Analyzed a week of HTTP connection logs in Kibana to trace the suspicious activity associated with a user from the HR department and identify the malicious file and related network activity.
+
+  Challenges Faced:
+  - Manually querying and filtering the connection logs in Kibana to isolate the relevant activity.
+
+  How I Overcame Them:
+  - Used targeted Kibana queries to narrow down the logs, trace the user's network activity, and identify the information required to complete the investigation.
+ 
+
+###  Week 12 (August 10th - August 13th 2026) 
+
+- [Benign](https://tryhackme.com/room/benign?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Investigated host-centric process execution logs using Splunk to identify a potentially compromised HR workstation. Analyzed Windows Event ID `4688` process execution logs and correlated activity across the IT, HR, and Marketing departments. The investigation involved identifying suspicious network information-gathering and scheduled-task activity and tracing the attacker hiding behind the name `Amel1a`.
+
+  Challenges Faced:
+  - Correlating activity across different departments and identifying the attacker was difficult.
+  - Manually digging through the logs and repeatedly refining Splunk queries was time-consuming and painful.
+
+  How I Overcame Them:
+  - Carefully filtered and customized Splunk searches, then correlated the relevant process execution events to trace the suspicious activity and complete the investigation.
+ 
+
+- [Tempest](https://tryhackme.com/room/tempestincident?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Investigated a workstation affected by a full attack chain using Sysmon logs, Timeline Explorer, EVTXECmd, and Wireshark. Converted the provided EVTX logs into CSV format and manually correlated process IDs, IP addresses, Base64-encoded strings, malicious documents, payload paths, hashes, and attacker infrastructure to reconstruct the attack.
+
+  Challenges Faced:
+  - This was one of the more difficult and time-consuming rooms for me.
+  - Correlating large amounts of data across Sysmon logs, Timeline Explorer, and Wireshark was frustrating.
+  - Identifying the payload, download path, malicious domain, and privilege escalation activity required careful investigation.
+
+  How I Overcame Them:
+  - Used multiple tools together and followed the attack chain step by step.
+  - Referred to a YouTube walkthrough when I got stuck and used it to understand the investigation process and complete the room.
+ 
+
+- [Boogieman 1](https://tryhackme.com/room/boogeyman1?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+  Investigated a phishing-based attack involving the Boogieman threat actor targeting Julian, a finance employee at Quick Logistics LLC. Used tools including Thunderbird, LNK analysis, Phase3, Whisper, TShark, and JQ to investigate the malicious email, attachment, encoded payload, PowerShell activity, and data exfiltration.
+
+  Challenges Faced:
+  - This was a difficult investigation requiring multiple tools and manual correlation.
+  - Finding the Base64-encoded credit card information within a large amount of data was particularly challenging.
+  - Understanding the full attack chain required switching between different artifacts and analysis tools.
+
+  How I Overcame Them:
+  - Correlated the email, attachment, Windows image, and PowerShell logs to reconstruct the attack.
+  - Used a YouTube walkthrough as a reference when I got stuck and successfully completed the investigation.
+ 
+
+- [Boogieman 2](https://tryhackme.com/room/boogeyman2?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69f4fa93bf6f0c2f9dcdb8ec)
+
+  Investigated a second Boogieman attack targeting the HR department of Quick Logistics LLC. Analyzed a phishing email, memory dump, and JSON artifacts to trace the attack and identify key indicators such as the attacker's email, malicious document, MD5 hash, stage-two payload URL, process IDs, parent process ID, and related IP addresses.
+
+  Challenges Faced:
+  - This was a difficult challenge with most of the investigation performed through the command line.
+  - Manually analyzing the logs and artifacts required careful attention to detail.
+  - I was not very familiar with some of the required commands.
+
+  How I Overcame Them:
+  - Used command-line tools to investigate the available artifacts and correlate the findings.
+  - Referred to YouTube walkthroughs when needed to understand the commands and complete the investigation.
  
 
